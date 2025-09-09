@@ -1,0 +1,5 @@
+progs:
+  stage: 1
+
+messages:
+  onCooldown: "&cGem is on cooldown: &f%seconds%s"

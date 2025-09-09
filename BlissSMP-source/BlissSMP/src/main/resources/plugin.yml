@@ -1,0 +1,12 @@
+name: BlissSMP
+main: com.blisssmp.BlissSMP
+version: 1.21.0
+api-version: "1.21"
+author: "Community recreation"
+commands:
+  bliss:
+    description: Manage Bliss gems and progs
+    usage: /bliss help
+permissions:
+  bliss.admin:
+    default: op
