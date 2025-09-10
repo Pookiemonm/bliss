@@ -1,0 +1,6 @@
+name: BlissSMP
+version: 1.0.0
+main: com.blisssmp.BlissSMP   # <-- must match your JavaPlugin class
+api-version: 1.21
+author: YourName
+description: Bliss SMP Season 3 plugin
